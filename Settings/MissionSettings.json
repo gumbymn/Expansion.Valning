@@ -1,0 +1,216 @@
+{
+    "Enabled": 0,
+    "TimeBetweenMissions": 3600000,
+    "MinMissions": 0,
+    "MaxMissions": 1,
+    "Missions": [
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Clear-Military.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Clear-Military.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Clear-Military.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Clear-Military.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Famka.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Famka.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Famka.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Famka.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Fersen-Prison.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Fersen-Prison.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Fersen-Prison.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Fersen-Prison.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Guerstling.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Guerstling.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Guerstling.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Guerstling.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Kalemka.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Kalemka.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Kalemka.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Kalemka.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Kemen-Airstrip.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Kemen-Airstrip.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Kemen-Airstrip.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Kemen-Airstrip.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Kerl.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Kerl.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Kerl.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Kerl.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Kreozky.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Kreozky.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Kreozky.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Kreozky.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Seroe.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Seroe.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Seroe.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Seroe.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Shauninka.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Shauninka.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Shauninka.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Shauninka.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Vezerovsky.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Vezerovsky.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Vezerovsky.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Vezerovsky.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Vezga.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Vezga.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Vezga.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Vezga.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_General_Winaud-Castle.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Medical_Winaud-Castle.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Basebuilding_Winaud-Castle.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Military_Winaud-Castle.json"
+        }
+    ]
+}
