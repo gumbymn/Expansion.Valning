@@ -11,7 +11,7 @@ To install this, you must have the following mods installed on the server:
 
 Download the map from [here](https://github.com/gumbymn/Expansion.Valning/blob/master/latest.zip) and install the map under the ```mpmissions``` folder of your server. Under the ```serverDZ.cfg``` change the template to ```Expansion.Valning``` and save. This will force the server to load the Valning Map. 
 
-**Note, some providers such as Nitrado may experience issues with this, and as such Nitrado is not supported by me (gumbymn).**
+```**Note, some providers such as Nitrado may experience issues with this, and as such Nitrado is not supported by me (gumbymn).**```
 
 You must download the key from the [Valning Map](https://discord.gg/ab7yX9b) Discord and install it into the ```@Valning Map``` folder. Launch DayZ using your favorite launcher (DayZ Standalone, DZSALauncher, Magic Launcher) and connect to your favorite server.
 
