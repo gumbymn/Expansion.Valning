@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Valning Map (Expansion Ready)
+*Thank you to Avoka for use of his Valning Map, as well as the DayZ Expansion Team, for without these, this project would not be possible.*
 
-You can use the [editor on GitHub](https://github.com/gumbymn/Expansion.Valning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Installation
+To install this, you must have the following mods installed on the server:
+* Community Framework (CF) by Jacob_Mango
+* Community Online Tools (COT) by Jacob_Mango
+* DayZ-Expansion or DayZ-Expansion-Experimental (Version is tested on both) by DayZ Expansion
+* DayZ-Expansion-Licensed or DayZ-Licensed-Experimental (Version is tested on both) by DayZ Expansion
+* Valning Map by Avoka
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Download the map from [here](https://github.com/gumbymn/Expansion.Valning/blob/master/latest.zip) and install the map under the ```mpmissions``` folder of your server. Under the ```serverDZ.cfg``` change the template to ```Expansion.Valning``` and save. This will force the server to load the Valning Map. 
 
-### Markdown
+**Note, some providers such as Nitrado may experience issues with this, and as such Nitrado is not supported by me (gumbymn).**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Copy the ```Missions``` and ```Settings``` folders to your ```ServerProfiles``` folder (some hosts may use a different folder name).
 
-```markdown
-Syntax highlighted code block
+You must download the key from the [Valning Map](https://discord.gg/ab7yX9b) Discord and install it into the ```@Valning Map``` and ```keys``` folders. Start the server. Launch DayZ using your favorite launcher (DayZ Standalone, DZSALauncher, Magic Launcher) and connect to your favorite server.
 
-# Header 1
-## Header 2
-### Header 3
+## Developers
+A special thanks to the following developers for their integral part on the development of the tools needed for this project.
+* [Cypher](https://github.com/CypherMediaGIT)
+* [DayZ Expansion](https://github.com/salutesh)
+* [Jacob_Mango](https://github.com/Jacob-Mango)
+* [GumbyMN](https://github.com/gumbymn)
+* Avoka
+* Scruffy for his Expansion Missions contributions.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gumbymn/Expansion.Valning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contributions
+This version of the Valning Map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod, and Avoka's [Valning Map](https://steamcommunity.com/sharedfiles/filedetails/?id=1880753439&searchtext=valning+map) mod.
