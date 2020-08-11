@@ -1,113 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
-	<!-- EXPANSION EVENT SPAWN POINTS FOR CHERNARUS PLUS -->
-	<!-- EXPANSION CARS -->
-	<event name="VehicleUAZ">
-		<!-- Airfield Vyvor -->
-		<pos x="5419.167969" y="333.421509" z="9886.763672" a="178.721161" />
-		<!-- Airfield Balota -->
-		<pos x="4847.206055" y="10.586733" z="2465.876221" a="57.025002" />
-		<!-- Military Base Tisy -->
-		<pos x="1711.423950" y="453.369049" z="14120.800781" a="32.195831" />
-		<!-- Military Base Kamensk -->
-		<pos x="7743.189453" y="362.079010" z="14860.373047" a="15.953650" />
-		<!-- Military Base Zeleno -->
-		<pos x="2548.715088" y="191.960663" z="5198.598145" a="45.981197" />
-		<!-- Military Base VMC -->
-		<pos x="4544.528809" y="319.462463" z="8333.652344" a="26.989965" />
-		<!-- Military Base Pavlovo -->
-		<pos x="2209.268066" y="93.761986" z="3369.180420" a="45.016136" />
+	<event name="VehicleCivilianSedan">
+		<pos x="7098.917480" z="2520.679199" a="4.043329" />
+		<pos x="6797.585938" z="2836.324463" a="11.228727" />
 	</event>
-	<event name="VehicleVodnik">
-		<!-- Military Base Tisy -->
-		<pos x="567.561096" y="503.953217" z="13655.631836" a="0.000000" />
-		<!-- Plotina Tishina Dam -->
-		<pos x="1159.035278" y="153.176682" z="6219.569824" a="0.000000" />
+	<event name="VehicleSedan02">
+		<pos x="5206.753906" z="3601.979980" a="18.881233" />
+		<pos x="5578.602051" z="5498.392090" a="144.529709" />
 	</event>
-	<event name="VehicleBus">
-		<!-- Cherno -->
-		<pos x="6391.597168" y="12.033311" z="2696.855469" a="38.998974" />
+	<event name="VehicleHatchback02">
+		<pos x="6058.025879" z="5815.627441" a="149.413727" />
 	</event>
-	<event name="VehicleTractor">
-		<!-- Krasnostav -->
-		<pos x="10869.070313" y="234.547668" z="12285.822266" a="37.827099" />
-		<pos x="13465.051758" y="79.656189" z="13067.939453" a="325.00671" />
-		<!-- Polyana -->
-		<pos x="10665.547852" y="211.476746" z="7917.082031" a="289.703583‬" />
-		<pos x="10785.945313" y="233.722229" z="8238.893555" a="164.680328" />
-		<!-- Berezino -->
-		<pos x="12300.703125" y="34.068638" z="9174.880859" a="0.000000" />
+    <event name="StaticHeliCrash">
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
+		<pos x="6479.664795" z="3844.539063" a="-1" />
+		<pos x="5680.664795" z="3663.539063" a="-1" />
+		<pos x="7640.664795" z="3680.539063" a="-1" />
+		<pos x="6817.664795" z="3815.539063" a="-1" />
+		<pos x="4075" z="572" a="-1" />
+		<pos x="4318" z="478" a="-1" />
+		<pos x="5105" z="321" a="-1" />
+		<pos x="2982" z="670" a="-1" />
+		<pos x="9398" z="1954" a="-1" />
+		<pos x="8757" z="1803" a="-1" />
+		<pos x="8592" z="1073" a="-1" />
+		<pos x="9516" z="1147" a="-1" />
+		<pos x="9510" z="1857" a="-1" />
+		<pos x="8371" z="2301" a="-1" />
+		<pos x="8067" z="2267" a="-1" />
+		<pos x="7901" z="1730" a="-1" />
+		<pos x="7307" z="1201" a="-1" />
+		<pos x="7380" z="537" a="-1" />
+		<pos x="6167" z="897" a="-1" />
+		<pos x="4816" z="640" a="-1" />
+		<pos x="3689" z="3137" a="-1" />
+		<pos x="2383" z="3034" a="-1" />
+		<pos x="4502" z="656" a="-1" />
+		<pos x="5281" z="310" a="-1" />
+		<pos x="3536" z="2170" a="-1" />
+    </event>
+	<event name="StaticChristmasTree">
+		<pos x="6560.29" z="2462.12" a="0.0" />
 	</event>
-	<!-- EXPANSION HELICOPTERS -->
-	<event name="VehicleMH6Helicopter">
-		<!-- Airfield Vyvor -->
-		<pos x="4169.207031" y="338.414795" z="10990.304688" a="71.035965" />
-		<!-- Prison Island -->
-		<pos x="2610.090576" y="21.751432" z="1306.517334" a="14.250560" />
-		<!-- Military Base Tisy -->
-		<pos x="1689.941284" y="451.738586" z="14343.285156" a="0.000000" />
+    <event name="Loot" />
+    <event name="VehicleOffroadHatchback">
+		<pos x="5917.396484" z="4569.316895" a="128.232407" />
+    </event>
+    <event name="StaticPoliceCar">
+		<pos x="1846.316407" z="11492.649414" a="336.442993" />
+    </event>
+    <event name="VehicleV3S">
+		<pos x="7735.35498" z="14834.541016" a="275.906708" />
+    </event>
+	<event name="ItemPlanks">
+		<pos x="5558.671875" z="5513.913086" a="1.301008" />
+		<pos x="7040.671875" z="4385.913086" a="1.301008" />
+		<pos x="5831.671875" z="2448.913086" a="1.301008" />
+		<pos x="3057" z="2659" a="0" />
+		<pos x="3654" z="2570" a="0" />
+		<pos x="5206" z="3547" a="0" />
+		<pos x="6158" z="3802" a="0" />
+		<pos x="5249" z="6653" a="0" />
+		<pos x="4617" z="5538" a="0" />
+		<pos x="9193" z="908" a="0" />
+		<pos x="5554" z="1114" a="0" />
+		<pos x="2910" z="3630" a="0" />
+		<pos x="8470" z="4556" a="0" /> 
+    </event>
+    <event name="VehicleV3SChassis" >
+		<pos x="7735.35498" z="14834.541016" a="275.906708" />
 	</event>
-	<event name="VehicleMerlinHelicopter">
-		<!-- Airfield Vyvor -->
-		<pos x="4675.005859" y="342.870758" z="10362.887695" a="304.364269‬" />
-	</event>
-	<event name="VehicleUh1hHelicopter">
-		<!-- Airfield Vybor -->
-		<pos x="4096.730957" y="342.045197" z="10652.285156" a="26.790075" />
-		<!-- Military Base Kamensk -->
-		<pos x="8007.443848" y="342.698883" z="14627.948242" a="29.346302" />
-		<!-- Biathlon Arena -->
-		<pos x="504.444275" y="424.994934" z="11237.218750" a="10.636043" />
-	</event>
-	<event name="VehicleGyroHelicopter">
-		<!-- Airfield Balota -->
-		<pos x="5030.672363" y="9.536390" z="2356.444824" a="40.269878" />
-	</event>
-	<!-- EXPANSION BOATS -->
-	<event name="VehicleUtilityBoat">
-		<!-- Prison Island -->
-		<pos x="2694.401367" y="2.893368" z="1386.396973" a="3.000063" />
-		<!-- Balota -->
-		<pos x="4324.443359" y="3.187644" z="2144.913818" a="285.999825" />
-		<!-- Nizhneye -->
-		<pos x="13078.616211" y="3.127557" z="8249.444336" a="94.973480" />
-		<!-- Berezino -->
-		<pos x="13222.479492" y="3.078305" z="9997.265625" a="195.999451‬" />
-	</event>
-	<event name="VehicleZodiacBoat">
-		<!-- Kamenka -->
-		<pos x="1862.077881" y="1.035321" z="2069.190430" a="119.000206" />
-		<!-- Komarovo -->
-		<pos x="3605.452881" y="1.037562" z="2051.242920" a="101.000137" />
-		<!-- Prison Island -->
-		<pos x="2828.842041" y="1.381267" z="1130.739990" a="120.687057" />
-		<!-- Cherno -->
-		<pos x="6857.394531" y="1.353274" z="2666.107422" a="0.000000" />
-		<pos x="7004.533203" y="1.027294" z="2529.761475" a="235.000114‬" />
-		<pos x="7504.036621" y="1.211231" z="2509.003906" a="25.000063" />
-		<pos x="6463.131836" y="1.522734" z="2183.592773" a="132.766693" />
-		<pos x="6570.701660" y="1.352989" z="2239.216797" a="83.193115" />
-		<!-- Prigorodi -->
-		<pos x="7793.382324" y="1.196902" z="2997.535400" a="202.000061‬" />
-		<pos x="7806.783203" y="1.302303" z="2764.739014" a="244.647537" />
-		<!-- Elektro -->
-		<pos x="9798.750000" y="1.191982" z="1733.862427" a="135.000473" />
-		<pos x="10190.645508" y="1.264722" z="1659.459717" a="80.000183" />
-		<pos x="10892.398438" y="1.480017" z="2327.396973" a="0.000000" />
-		<pos x="10950.109375" y="1.418841" z="2641.047852" a="55.000072" />
-		<!-- Kamyshovo -->
-		<pos x="12062.391602" y="1.077910" z="3420.425293" a="173.000580" />
-		<!-- Near Solnechny -->
-		<pos x="13472.156250" y="1.038827" z="5439.098145" a="0.000000" />
-		<!-- Solnechny -->
-		<pos x="13550.460938" y="1.387331" z="6299.495117" a="79.000191" />
-		<!-- Nizhneye -->
-		<pos x="13153.362305" y="1.107187" z="7669.155762" a="89.735107" />
-		<!-- Svetlo -->
-		<pos x="14297.227539" y="1.070972" z="13244.783203" a="261.999641‬" />
-	</event>
-	<event name="VehicleAn2Plane">
-		<!-- Airfield Vybor -->
-		<pos x="4128.941895" y="338.637085" z="10842.748047" a="0.000000‬" />
-	</event>
+	<event name="VehicleV3SCargo" />
+    <event name="VehicleTransitBus" />
+    <event name="InfectedVillage" />
+    <event name="InfectedSolitude" />
+    <event name="InfectedArmy" />
+    <event name="InfectedCity" />
+    <event name="InfectedMedic" />
+    <event name="InfectedPolice" />
+    <event name="InfectedFirefighter" />
+    <event name="InfectedPrisoner" />
+    <event name="AnimalDeer" />
+    <event name="AnimalCow" />
+    <event name="AnimalSheep" />
+    <event name="AnimalRoeDeer" />
+    <event name="AnimalWolf" />
+    <event name="AnimalWildBoar" />
 </eventposdef>
