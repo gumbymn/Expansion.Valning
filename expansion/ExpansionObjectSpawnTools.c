@@ -34,7 +34,7 @@ void FindMissionFiles(string worldname, bool loadObjects, bool loadTraders)
 		{
 			traderFiles = FindFilesInLocation(traderFilesFolder);
 
-			LoadMissionTraders(traderFiles, worldname);
+			// LoadMissionTraders(traderFiles, worldname);
 		}
 	}
 }
