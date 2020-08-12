@@ -20,6 +20,8 @@ Copy and extract the ```Missions``` and ```Settings``` folders from [here](https
 
 You must download the key from the [Valning Map](https://discord.gg/ab7yX9b) Discord and install it into the ```@Valning Map``` and ```keys``` folders. Start the server. Launch DayZ using your favorite launcher (DayZ Standalone, DZSALauncher, Magic Launcher) and connect to your favorite server.
 
+This mission also has an offline version which can be found [here](https://gumbymn.github.io/ExpansionCOM.Valning/).
+
 ## Developers
 A special thanks to the following developers for their integral part on the development of the tools needed for this project.
 * [Cypher](https://github.com/CypherMediaGIT)
