@@ -1,5 +1,6 @@
-<p>## Valning Map (Expansion Ready) <br>![License](https://img.shields.io/badge/License-GPL--3.0-yellow) ![Build](https://img.shields.io/badge/release-v1.8121223-blue) <img align="right" src="https://github.com/gumbymn/Expansion.Valning/blob/images/valning.jpg">
-*Thank you to Avoka for use of his Valning Map, as well as the DayZ Expansion Team, for without these, this project would not be possible.*</p>
+<img align="center" src="https://github.com/gumbymn/Expansion.Valning/blob/images/valning.jpg">
+## Valning Map (Expansion Ready) <br>![License](https://img.shields.io/badge/License-GPL--3.0-yellow) ![Build](https://img.shields.io/badge/release-v1.8121223-blue)
+*Thank you to Avoka for use of his Valning Map, as well as the DayZ Expansion Team, for without these, this project would not be possible.*
 
 ## Installation
 To install this, you must have the following mods installed on the server:
