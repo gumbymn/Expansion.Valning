@@ -29,4 +29,4 @@ A special thanks to the following developers for their integral part on the deve
 ## Contributions
 This version of the Valning Map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod, and Avoka's [Valning Map](https://steamcommunity.com/sharedfiles/filedetails/?id=1880753439&searchtext=valning+map) mod.
 
-<sub>Latest Expansion Compatibility ![Expansion](https://img.shields.io/badge/version-1.3.1029-red)</sub>
+<sub>*Latest Expansion Compatibility* <br> ![Expansion](https://img.shields.io/badge/version-1.3.1029-red)</sub>
