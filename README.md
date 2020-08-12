@@ -22,6 +22,12 @@ You must download the key from the [Valning Map](https://discord.gg/ab7yX9b) Dis
 
 This mission also has an offline version which can be found [here](https://gumbymn.github.io/ExpansionCOM.Valning/).
 
+## Current Issues
+```
+**Dynamic events not working (Zombies, Airdrops)**
+```
+
+
 ## Developers
 A special thanks to the following developers for their integral part on the development of the tools needed for this project.
 * [Cypher](https://github.com/CypherMediaGIT)
