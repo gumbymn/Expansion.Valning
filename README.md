@@ -1,5 +1,3 @@
-![Header](https://github.com/gumbymn/Expansion.Valning/blob/images/valning.jpg)
-
 ## Valning Map (Expansion Ready) <br>![Build](https://img.shields.io/badge/release-v1.8121223-blue) 
 *Thank you to Avoka for use of his Valning Map, as well as the DayZ Expansion Team, for without these, this project would not be possible.*
 
