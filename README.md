@@ -4,7 +4,7 @@
 ## Installation
 ![Header](https://github.com/gumbymn/Expansion.Valning/blob/images/valning.jpg)
 
-To install this, you must have the following mods installed on the server:
+<br>To install this, you must have the following mods installed on the server:
 * Community Framework (CF) by Jacob_Mango
 * Community Online Tools (COT) by Jacob_Mango
 * DayZ-Expansion or DayZ-Expansion-Experimental (Version is tested on both) by DayZ Expansion
