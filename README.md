@@ -13,7 +13,7 @@ Download the map from [here](https://github.com/gumbymn/Expansion.Valning/blob/m
 
 **Note, some providers such as Nitrado may experience issues with this, and as such Nitrado is not supported by me (gumbymn).**
 
-Copy the ```Missions``` and ```Settings``` folders to your ```ServerProfiles``` folder (some hosts may use a different folder name).
+Copy the ```Missions``` and ```Settings``` folders from [here](https://github.com/gumbymn/Expansion.Valning/tree/source) to your ```ServerProfiles\ExpansionMod``` folder (some hosts may use a different folder name).
 
 You must download the key from the [Valning Map](https://discord.gg/ab7yX9b) Discord and install it into the ```@Valning Map``` and ```keys``` folders. Start the server. Launch DayZ using your favorite launcher (DayZ Standalone, DZSALauncher, Magic Launcher) and connect to your favorite server.
 
