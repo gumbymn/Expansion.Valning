@@ -24,7 +24,7 @@ This mission also has an offline version which can be found [here](https://gumby
 
 ## Current Issues
 ```
-**Dynamic events not working (Zombies, Airdrops)**
+* Dynamic events not working (Zombies, Airdrops)**
 ```
 
 
