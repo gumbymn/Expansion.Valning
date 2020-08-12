@@ -1,7 +1,8 @@
-## Valning Map (Expansion Ready)
+## Valning Map (Expansion Ready) <br>![Build](https://img.shields.io/badge/release-v1.8121223-blue) 
 *Thank you to Avoka for use of his Valning Map, as well as the DayZ Expansion Team, for without these, this project would not be possible.*
 
 ## Installation
+
 To install this, you must have the following mods installed on the server:
 * Community Framework (CF) by Jacob_Mango
 * Community Online Tools (COT) by Jacob_Mango
