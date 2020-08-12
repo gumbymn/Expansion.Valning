@@ -6,11 +6,13 @@
 To install this, you must have the following mods installed on the server:
 * Community Framework (CF) by Jacob_Mango
 * Community Online Tools (COT) by Jacob_Mango
-* DayZ-Expansion or DayZ-Expansion-Experimental (Version is tested on both) by DayZ Expansion
-* DayZ-Expansion-Licensed or DayZ-Licensed-Experimental (Version is tested on both) by DayZ Expansion
+* DayZ-Expansion by DayZ Expansion
+* DayZ-Expansion-Licensed by DayZ Expansion
 * BuilderStatics by Not A Banana
 * BuilderItems by Not A Banana (Future Version will remove this as included in expansion)
 * Valning Map by Avoka
+
+<sub>**Note: This is compatible with DayZ-Expansion experimental**</sub>
 
 Download the map from [here](https://github.com/gumbymn/Expansion.Valning/blob/master/latest.zip) and install the map under the ```mpmissions``` folder of your server. Under the ```serverDZ.cfg``` change the template to ```Expansion.Valning``` and save. This will force the server to load the Valning Map. 
 
