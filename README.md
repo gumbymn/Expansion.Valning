@@ -1,7 +1,7 @@
 ## Valning Map (Expansion Ready) <br>![Build](https://img.shields.io/badge/release-v1.8121223-blue) 
 *Thank you to Avoka for use of his Valning Map, as well as the DayZ Expansion Team, for without these, this project would not be possible.*
 
-## Installation
+:house: ## Installation
 
 To install this, you must have the following mods installed on the server:
 * Community Framework (CF) by Jacob_Mango
@@ -28,5 +28,3 @@ A special thanks to the following developers for their integral part on the deve
 
 ## Contributions
 This version of the Valning Map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod, and Avoka's [Valning Map](https://steamcommunity.com/sharedfiles/filedetails/?id=1880753439&searchtext=valning+map) mod.
-
-Like our project? Give us a :+1:
