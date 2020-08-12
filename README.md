@@ -3,6 +3,7 @@
 
 ## Installation
 ![Header](https://github.com/gumbymn/Expansion.Valning/blob/images/valning.jpg)
+
 To install this, you must have the following mods installed on the server:
 * Community Framework (CF) by Jacob_Mango
 * Community Online Tools (COT) by Jacob_Mango
