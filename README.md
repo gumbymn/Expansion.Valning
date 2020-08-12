@@ -1,10 +1,11 @@
+![Header](https://github.com/gumbymn/Expansion.Valning/blob/images/valning.jpg)
+
 ## Valning Map (Expansion Ready) <br>![License](https://img.shields.io/badge/License-GPL--3.0-yellow) ![Build](https://img.shields.io/badge/release-v1.8121223-blue) 
 *Thank you to Avoka for use of his Valning Map, as well as the DayZ Expansion Team, for without these, this project would not be possible.*
 
 ## Installation
-![Header](https://github.com/gumbymn/Expansion.Valning/blob/images/valning.jpg)
 
-<br>To install this, you must have the following mods installed on the server:
+To install this, you must have the following mods installed on the server:
 * Community Framework (CF) by Jacob_Mango
 * Community Online Tools (COT) by Jacob_Mango
 * DayZ-Expansion or DayZ-Expansion-Experimental (Version is tested on both) by DayZ Expansion
