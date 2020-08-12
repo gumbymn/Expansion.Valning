@@ -23,6 +23,7 @@ A special thanks to the following developers for their integral part on the deve
 * [DayZ Expansion](https://github.com/salutesh)
 * [Jacob_Mango](https://github.com/Jacob-Mango)
 * [GumbyMN](https://github.com/gumbymn)
+* [LieutenantMaster](https://github.com/lieutenantmaster)
 * Avoka
 * Scruffy for his Expansion Missions contributions.
 
