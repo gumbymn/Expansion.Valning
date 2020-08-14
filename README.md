@@ -47,9 +47,9 @@ PLEASE, NOTE THAT THIS SUMMARY HAS NO LEGAL EFFECT AND IS ONLY OF AN INFORMATORY
 
 With this license you are free to adapt (i.e. modify, rework or update) and share (i.e. copy, distribute or transmit) the material under the following conditions:
 
-<ol><li>Attribution - You must attribute the material in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the material).</li>
+<ul><li>Attribution - You must attribute the material in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the material).</li>
 <li>Noncommercial - You may not use this material for any commercial purposes.</li>
 <li>Arma and Dayz Only - You may not convert or adapt this material to be used in other games than Arma and Dayz.</li>
-<li>Share Alike - If you adapt, or build upon this material, you may distribute the resulting material only under the same license.</li></ol>
+<li>Share Alike - If you adapt, or build upon this material, you may distribute the resulting material only under the same license.</li></ul>
 
 <br>Full text: [https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa](https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa)
