@@ -30,7 +30,6 @@ This mission also has an offline version which can be found [here](https://gumby
 
 ## Developers
 A special thanks to the following developers for their integral part on the development of the tools needed for this project.
-* [Cypher](https://github.com/CypherMediaGIT)
 * [DayZ Expansion](https://github.com/salutesh)
 * [Jacob_Mango](https://github.com/Jacob-Mango)
 * [GumbyMN](https://github.com/gumbymn)
@@ -39,10 +38,9 @@ A special thanks to the following developers for their integral part on the deve
 ## Contributions
 This version of the Valning Map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod, and Avoka's [Valning Map](https://steamcommunity.com/sharedfiles/filedetails/?id=1880753439&searchtext=valning+map) mod.
 
-
 # License
 Arma and Dayz Public License Share Alike (ADPL-SA) 
-![Build](https://img.shields.io/badge/License-ADPL--SA-green) 
+<br>![Build](https://img.shields.io/badge/License-ADPL--SA-green) 
 
 PLEASE, NOTE THAT THIS SUMMARY HAS NO LEGAL EFFECT AND IS ONLY OF AN INFORMATORY NATURE DESIGNED FOR YOU TO GET THE BASIC INFORMATION ABOUT THE CONTENT OF THIS LICENCE. THE ONLY LEGALLY BINDING PROVISIONS ARE THOSE IN THE ORIGINAL AND FULL TEXT OF THIS LICENSE.
 
