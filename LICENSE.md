@@ -1,4 +1,4 @@
-# Arma and Dayz Public License Share Alike (ADPL-SA)
+## Arma and Dayz Public License Share Alike (ADPL-SA)
 
 **Brief summary of this License**
 
@@ -10,13 +10,13 @@ _________________
 With this license you are free to adapt (i.e. modify, rework or update) and share (i.e. copy,
 distribute or transmit) the material under the following conditions:
 
-* Attribution — You must attribute the material in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the material).
+* Attribution â€” You must attribute the material in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the material).
 
-* Noncommercial — You may not use this material for any commercial purposes.
+* Noncommercial â€” You may not use this material for any commercial purposes.
 
 * Arma and Dayz Only - You may not convert or adapt this material to be used in other games than Arma and Dayz.
 
-* Share Alike — If you adapt, or build upon this material, you may distribute the resulting material only under the same license.
+* Share Alike â€” If you adapt, or build upon this material, you may distribute the resulting material only under the same license.
 _________________
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the
 terms and conditions of this Arma and Dayz Public License - Share Alike ("Public License"). To
@@ -25,7 +25,7 @@ Rights in consideration of Your acceptance of these terms and conditions, and th
 You such rights in consideration of benefits the Licensor receives from making the Licensed
 Material available under these terms and conditions.
 
-## Section 1 – Definitions
+## Section 1 â€“ Definitions
 
 **a.**  Adapted Material means material subject to Copyright and Similar Rights that is
 derived from or based upon the Licensed Material and in which the Licensed
@@ -97,7 +97,7 @@ other essentially equivalent rights anywhere in the world.
 **n.**  You means the individual or entity exercising the Licensed Rights under this
 Public License. Your has a corresponding meaning.
 
-## Section 2 – Scope
+## Section 2 â€“ Scope
 
 **a. License grant.**
 
@@ -128,9 +128,9 @@ produces Adapted Material.
 
 5. Downstream recipients.
 
-<ol><li>a. Offer from the Licensor – Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.</li>
+<ol><li>a. Offer from the Licensor â€“ Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.</li>
 
-<li>Additional offer from the Licensor – Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.</li>
+<li>Additional offer from the Licensor â€“ Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapterâ€™s License You apply.</li>
 
 <li>c. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.</li></ol>
 
@@ -147,7 +147,7 @@ others designated to receive attribution as provided in Section 3(a)(1)(a)(i).
 
 <li>To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial and ArmaAndDayzOnly purposes.</li></ol></ol>
 
-## Section 3 – License Conditions
+## Section 3 â€“ License Conditions
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
@@ -187,14 +187,14 @@ In addition to the conditions in Section 3(a), if You Share Adapted Material You
 following conditions also apply.
 
 <ol>
-<li>The Adapter’s License You apply must be this Public License, or an Arma and Dayz Public Share Alike Compatible License.</li>
+<li>The Adapterâ€™s License You apply must be this Public License, or an Arma and Dayz Public Share Alike Compatible License.</li>
 
 <li>You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.</li>
 
 <li>You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.</li>
 </ol></ol>
 
-## Section 4 – Sui Generis Database Rights
+## Section 4 â€“ Sui Generis Database Rights
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the
 Licensed Material:
@@ -208,7 +208,7 @@ reproduce, and Share all or a substantial portion of the contents of the databas
 For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations
 under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
-## Section 5 – Disclaimer of Warranties and Limitation of
+## Section 5 â€“ Disclaimer of Warranties and Limitation of
 **Liability**
 
 <ol><li>Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.</li>
@@ -217,7 +217,7 @@ under this Public License where the Licensed Rights include other Copyright and 
 
 <li>The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.</li></ol>
 
-## Section 6 – Term and Termination
+## Section 6 â€“ Term and Termination
 
 This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.<
 
@@ -231,12 +231,12 @@ Where Your right to use the Licensed Material has terminated under Section 6(a),
 
 <li>Sections 1, 5, 6, 7, and 8 survive termination of this Public License.</li></ol>
 
-## Section 7 – Other Terms and Conditions
+## Section 7 â€“ Other Terms and Conditions
 <ol><li>The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.</li>
 
 <li>Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.</li></ol>
 
-## Section 8 – Interpretation
+## Section 8 â€“ Interpretation
 
 <ol><li>For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.</li>
 
@@ -250,6 +250,6 @@ Where Your right to use the Licensed Material has terminated under Section 6(a),
 
 <ol><li>Bohemia Interactive a.s. is not a party to this License, and makes no warranty whatsoever in connection with the Licensed Material. Bohemia Interactive a.s. will not be liable to You or any party on any legal theory for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to this license. Notwithstanding the foregoing two (2) sentences, Bohemia Interactive a.s. may elect to apply the Public License to material it publishes and in those instances it becomes the "Licensor".</li>
 
-<li>Except for the limited purpose of indicating to the public that the Licensed Material is shared under this Public License, Bohemia Interactive a.s. does not authorize the use by either party of the trademarks "Arma", "Bohemia Interactive"","Dayz“ or any related trademark or logo of Arma or Bohemia Interactive or Dayz without the prior written consent of Bohemia Interactive a.s.</li></ol>
+<li>Except for the limited purpose of indicating to the public that the Licensed Material is shared under this Public License, Bohemia Interactive a.s. does not authorize the use by either party of the trademarks "Arma", "Bohemia Interactive"","Dayzâ€œ or any related trademark or logo of Arma or Bohemia Interactive or Dayz without the prior written consent of Bohemia Interactive a.s.</li></ol>
 
 <br><sup>Updated **August 2020**</sup>
