@@ -38,3 +38,6 @@ A special thanks to the following developers for their integral part on the deve
 
 ## Contributions
 This version of the Valning Map was developed by [gumbymn](https://github.com/gumbymn) using the latest DayZ Expansion mod, and Avoka's [Valning Map](https://steamcommunity.com/sharedfiles/filedetails/?id=1880753439&searchtext=valning+map) mod.
+
+## License
+This project is licensed under Arma and Dayz Public License Share Alike (ADPL-SA). 
