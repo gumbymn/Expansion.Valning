@@ -52,3 +52,5 @@ With this license you are free to adapt (i.e. modify, rework or update) and shar
 <li>Share Alike - If you adapt, or build upon this material, you may distribute the resulting material only under the same license.</li></ul>
 
 Full text: [https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa](https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa)
+
+<br><sup>Updated **August 2020**</sup>
