@@ -1,4 +1,4 @@
-## Arma and Dayz Public License Share Alike (ADPL-SA)
+# Arma and Dayz Public License Share Alike (ADPL-SA)
 
 **Brief summary of this License**
 
