@@ -41,7 +41,7 @@ This version of the Valning Map was developed by [gumbymn](https://github.com/gu
 
 
 # License
-**Arma and Dayz Public License Share Alike (ADPL-SA)** ![Build](https://img.shields.io/license/license-ADPL-SA-orange) 
+**Arma and Dayz Public License Share Alike (ADPL-SA)** ![Build](https://img.shields.io/badge/License-ADPL--SA-green) 
 
 PLEASE, NOTE THAT THIS SUMMARY HAS NO LEGAL EFFECT AND IS ONLY OF AN INFORMATORY NATURE DESIGNED FOR YOU TO GET THE BASIC INFORMATION ABOUT THE CONTENT OF THIS LICENCE. THE ONLY LEGALLY BINDING PROVISIONS ARE THOSE IN THE ORIGINAL AND FULL TEXT OF THIS LICENSE.
 
